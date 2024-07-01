@@ -1,0 +1,51 @@
+
+호스트 이름:             DESKTOP-I0JO3OH
+OS 이름:                 Microsoft Windows 11 Pro
+OS 버전:                 10.0.22631 N/A 빌드 22631
+OS 제조업체:             Microsoft Corporation
+OS 구성:                 독립 실행형 워크스테이션
+OS 빌드 종류:            Multiprocessor Free
+등록된 소유자:           user
+등록된 조직:             N/A
+제품 ID:                 00330-53614-31469-AAOEM
+원래 설치 날짜:          2023-12-19, 오후 12:59:52
+시스템 부트 시간:        2024-06-12, 오전 6:31:16
+시스템 제조업체:         Dell Inc.
+시스템 모델:             Precision 3640 Tower
+시스템 종류:             x64-based PC
+프로세서:                프로세서 1개 설치됨
+                         [01]: Intel64 Family 6 Model 165 Stepping 5 GenuineIntel ~3601Mhz
+BIOS 버전:               Dell Inc. 1.30.0, 2024-03-05
+Windows 디렉터리:        C:\WINDOWS
+시스템 디렉터리:         C:\WINDOWS\system32
+부팅 장치:               \Device\HarddiskVolume3
+시스템 로캘:             ko;한국어
+입력 로캘:               ko;한국어
+표준 시간대:             (UTC+09:00) 서울
+총 실제 메모리:          32,482MB
+사용 가능한 실제 메모리: 15,066MB
+가상 메모리: 최대 크기:  39,394MB
+가상 메모리: 사용 가능:  13,087MB
+가상 메모리: 사용 중:    26,307MB
+페이지 파일 위치:        C:\pagefile.sys
+도메인:                  WORKGROUP
+로그온 서버:             \\DESKTOP-I0JO3OH
+핫픽스:                  핫픽스 4개 설치됨
+                         [01]: KB5037591
+                         [02]: KB5027397
+                         [03]: KB5039212
+                         [04]: KB5037959
+네트워크 카드:           NIC 2개 설치됨
+                         [01]: Bluetooth Device (Personal Area Network)
+                               연결 이름: Bluetooth 네트워크 연결
+                               상태:      미디어 연결이 끊어짐
+                         [02]: Intel(R) Ethernet Connection (11) I219-LM
+                               연결 이름: 이더넷
+                               DHCP 사용: 아니요
+                               IP 주소
+                               [01]: 203.241.129.180
+                               [02]: fe80::991d:8f6c:f0b2:8486
+Hyper-V 요구 사항:       VM 모니터 모드 확장: 예
+                         펌웨어에 가상화 사용: 예
+                         두 번째 수준 주소 변환: 예
+                         데이터 실행 방지 사용 가능: 예
